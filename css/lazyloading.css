@@ -1,0 +1,106 @@
+.h{
+    width: 100%;
+    height: 60px;
+    background-color: #ffffff;
+}
+div.h-d1{
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.h-d1-m{
+    width: 60px;
+}
+/*header结束了用不着媒体查询*/
+.s{
+    font-size: 12px;
+    width: 1491px;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-color: rgba(255, 255, 255, 0.56);
+}
+.s-d1{
+    position: relative;
+}
+.s-d1-d{
+    position: absolute;
+    width: 236px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+.s-d1-d-m{
+    width: 236px;
+}
+.s-d1-d-d1{
+    width: 236px;
+    height: 40px;
+    background-color: #ffffff;
+}
+.s-d1-d-d2{
+    border-top: 1px solid rgba(115, 115, 115, 0.25);
+    width: 236px;
+    height: 60px;
+    background-color: #ffffff;
+}
+.s-d1-d-d1-s{
+    display: inline-block;
+    margin-top: 2px;
+    text-indent: 10px;
+}
+.s-d1-d-d1-p{
+    color: #737373;
+    margin-top: 2px;
+    text-indent: 10px;
+}
+.i1{
+    position: relative;
+    top: 1px;
+    left: -1px;
+    overflow: hidden;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+}
+.i1>img{
+    position: absolute;
+ }
+.love>img{
+    top: 3px;
+    left: 2px;
+}.share{
+    margin-left:10px ;
+ }
+.share>img{
+    top: 3px;
+    left: -29px;
+}
+.comment{
+    margin-left: 10px;
+}
+.comment>img{
+    top: 3px;
+    left: -58px;
+}
+/*8888888888888888888888888888888888888888888*/
+.s-d1-d-d2-d{
+    width: 217px;
+    height: 60px;
+    margin: 0 auto;
+    position: relative;
+}
+.s-d1-d-d2-m{
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.s-d1-d-d2-s{
+    color: #88252d;
+    position: absolute;
+    top: 20px;
+    left: 52px;
+}
+/*******************************************/
